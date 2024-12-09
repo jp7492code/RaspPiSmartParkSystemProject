@@ -99,7 +99,7 @@ The system's core logic is written in Python. The script:
      ```
 
 3. **Run the Python Script:**
-   - Save the script as `parking_sensor.py`.
+   - Save the script as `ultrasonic_lcd.py`.
    - Execute the script:
      ```bash
      ~/myenv/bin/python ~distance_sensor/ultrasonic_lcd.py
