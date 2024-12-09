@@ -64,7 +64,7 @@ Parking on college campuses is a persistent challenge, often resulting in wasted
 - **Raspberry Pi**: Central controller for processing and aggregating sensor data.
 - **Ultrasonic Sensors**: Detect parking spot occupancy.
 - **LCD Screen**: Displays available spots at the parking lot entrance.
-- **Other Components**: Wires, breadboards, resistors, and power supply.
+- **Other Components**: Wires, traffic light led, and power supply.
 
 ---
 
