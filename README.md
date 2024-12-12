@@ -55,7 +55,7 @@ Parking on college campuses is a persistent challenge, often resulting in wasted
 | **Real-Time Spot Monitoring** | ✗              | ✗             | ✓              | **✓**                    |
 | **Cost-Effectiveness**        | Moderate        | Moderate       | High           | **High**                 |
 | **Focus on College Campuses** | ✗              | ✗             | ✗              | **✓**                    |
-| **Mobile App Integration**    | ✓              | ✓             | ✓              | **✓**                    |
+| **App Integration**           | ✓              | ✓             | ✓              | **✓**                    |
 
 ---
 
