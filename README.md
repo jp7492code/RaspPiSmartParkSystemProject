@@ -76,9 +76,6 @@ The system's core logic is written in Python. The script:
 - Calculates distances to determine parking status.
 - Displays results on an LCD in real-time.
 
-### **Mobile App**
-(Optional) A simple app to visualize parking lot maps and guide users to available spots.
-
 ---
 
 ## Installation & Usage
